@@ -9,4 +9,3 @@ document.querySelectorAll('nav a').forEach(function(link) {
         console.log('Navigation link clicked:', event.target.textContent);
     });
 });
-dhd
